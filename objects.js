@@ -6,9 +6,9 @@ var playlist ={
 /*to.contain.all.keys({'Slowdive': 'Alison', 'My Bloody Valentine': 'Sometimes', 'Phil Ochs': "Here's to the State of Mississippi"})
     })*/
 function updatePlaylist() {
-var playlist;
+playlist:
   
-  {artistName: 'phil Ochs' 
+  artistName: 'phil Ochs' 
   songTitle : "Here's to the State of Mississippi"
   
   artistName: 'My Bloody Valentine'
