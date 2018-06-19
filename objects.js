@@ -1,4 +1,6 @@
-var playlist ={
+
+
+/*var playlist ={
   
   Slowdive :'Alison'
   }
