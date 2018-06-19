@@ -15,8 +15,7 @@ var playlist ={
  
    
  function removeFromPlaylist(playlist, artistName){
-playlist[artistName] = ['Slowdive', ' my Bloody Valentine',
-'Phil Ochs']
+playlist[artistName] = ['Slowdive']
  
  delete artistName['Slowdive']
  return playlist
