@@ -5,7 +5,7 @@ var playlist ={
 }
 /*to.contain.all.keys({'Slowdive': 'Alison', 'My Bloody Valentine': 'Sometimes', 'Phil Ochs': "Here's to the State of Mississippi"})
     })*/
-function updatePlaylist(playlist, "Name", 'songTitle'){
+function updatePlaylist() {
   playlist;
 
   {artistName: 'My Bloody Valentine'
@@ -19,7 +19,7 @@ return updatePlaylist
  }
 
 
-function removeFromPlaylist(){)
+function removeFromPlaylist(){
   
   
 }
