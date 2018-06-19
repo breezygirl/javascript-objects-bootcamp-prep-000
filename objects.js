@@ -15,5 +15,5 @@ var playlist ={
    delete playlist.artistName;
    
   
-  
+  return playlist
 }
