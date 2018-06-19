@@ -12,7 +12,7 @@ var playlist ={
  
    
  function removeFromPlaylist(playlist, artistName){
-   playlist[artistName]=slowdive
+   playlist[artistName] 
    artistName = slowdive
    delete playlist.artistName;
    
