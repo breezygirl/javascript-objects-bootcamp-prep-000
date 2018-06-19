@@ -16,7 +16,7 @@ var playlist ={
  
  delete playlist.artistName;
  
- return removeFromPlaylist
+ return true
    
    
   
