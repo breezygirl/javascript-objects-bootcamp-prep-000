@@ -7,12 +7,11 @@ var playlist ={
     })*/
 function updatePlaylist() {
   playlist.artistName = 'phil Ochs' 
-playlist.songTitle =''
-  {artistName: 'My Bloody Valentine'
+playlist.songTitle ="Here's to the State of Mississippi"
+  playlist.artistName= 'My Bloody Valentine'
+  songTitle.playlist='Sometimes'
  
- 
- { songTitle:'Sometimes'
-  songTitle:"Here's to the State of Mississippi"
+
 
 return updatePlaylist
    
