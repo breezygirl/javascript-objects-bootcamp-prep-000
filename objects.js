@@ -6,17 +6,15 @@ var playlist ={
 /*to.contain.all.keys({'Slowdive': 'Alison', 'My Bloody Valentine': 'Sometimes', 'Phil Ochs': "Here's to the State of Mississippi"})
     })*/
 function updatePlaylist() {
-playlist:
+  Slowdive: 'Alison'
   
-  artistName: 'phil Ochs' 
-  songTitle : "Here's to the State of Mississippi"
+   phil Ochs: "Here's to the State of Mississippi",
   
-  artistName: 'My Bloody Valentine'
-  songTitle:'Sometimes'}
+  My Bloody Valentine :'Sometimes'}
  
 
 
-return (updatePlaylist, playlist)
+return updatePlaylist
    
  }
 
