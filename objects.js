@@ -15,10 +15,10 @@ var playlist ={
  
    
  function removeFromPlaylist(playlist, artistName){
-playlist : {'Slowdive', ' my Bloody Valention',
-'Slowdive'}
+playlist=[artistName] = 'Slowdive', ' my Bloody Valentine',
+'Phil Ochs'}
  
- delete playlist.artistName;
+ delete playlist.artistName
  return playlist
    
   
