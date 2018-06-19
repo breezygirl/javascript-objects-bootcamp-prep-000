@@ -11,7 +11,7 @@ function updatePlaylist(playlist, artistName,songTitle) {
   {artistName: 'phil Ochs' 
   songTitle : "Here's to the State of Mississippi"}
   
-  {playlist: 'My Bloody Valentine'
+  {artistName: 'My Bloody Valentine'
   songTitle:'Sometimes'}
  
 
