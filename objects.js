@@ -8,7 +8,7 @@ var playlist ={
     var updatedplaylist = { 
       'My Bloody Valentine': 'sometimes',
       'Phil Ochs': "here's to the sate of Mississippi",
-      Slowdive: 'Alison'
+      Slowdive: 'Alison'}
     }
     return updatedPlaylist
   }
