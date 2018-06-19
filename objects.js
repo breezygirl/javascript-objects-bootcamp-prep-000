@@ -18,7 +18,7 @@ var playlist ={
 playlist=[artistName] = 'Slowdive', ' my Bloody Valentine',
 'Phil Ochs'}
  
- delete playlist.artistName
+ delete artistName.Slowdive;
  return playlist
    
   
