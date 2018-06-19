@@ -10,7 +10,7 @@ var playlist ={
       'Phil Ochs': "here's to the sate of Mississippi",
       Slowdive: 'Alison'
     }
-    
+    return updatedPlaylist
   }
  
    
