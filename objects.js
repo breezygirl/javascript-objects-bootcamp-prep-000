@@ -7,11 +7,7 @@ var playlist ={
     })*/
   function updatePlaylist ( playlist, artistName, SongTitle){
    playlist[artistName] = SongTitle;
-   
-   
-    { Slowdive: 'Alison'},
-    { My Bloody valentine: 'sometimes'},
-    { Phil Ochs: "Here's to the state of Mississippi"}
+  
      
    
     return playlist;
