@@ -1,11 +1,10 @@
 
 var playlist ={
-  
   ArtistName:'Slowdive',
   songTitle: 'Alison'}
 /*var playlist ={
   
-  Slowdive :'Alison'
+  Slowdive :'Alison'*/
   }
 /*to.contain.all.keys({'Slowdive': 'Alison', 'My Bloody Valentine': 'Sometimes', 'Phil Ochs': "Here's to the State of Mississippi"})
     })*/
