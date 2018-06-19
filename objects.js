@@ -10,3 +10,5 @@ function updatePlaylist(){
   songTitle
   
 }
+
+function removeFromPlaylist
