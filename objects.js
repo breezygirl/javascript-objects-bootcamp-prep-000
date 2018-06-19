@@ -14,7 +14,7 @@ var playlist ={
  function removeFromPlaylist(playlist, artistName, SongTitle){
  playlist[artistName] =SongTitle
  
-delete artistName.Slowdive;
+delete artistName;
  
  return playlist
    
