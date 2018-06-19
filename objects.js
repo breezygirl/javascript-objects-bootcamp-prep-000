@@ -9,9 +9,9 @@ var playlist ={
    playlist[artistName] = SongTitle;
    
    
-     Slowdive: 'Alison',
-     My Bloody valentine: 'sometimes',
-     Phil Ochs: "Here's to the state of Mississippi"
+    { Slowdive: 'Alison'},
+    { My Bloody valentine: 'sometimes'},
+    { Phil Ochs: "Here's to the state of Mississippi"}
      
    
     return playlist;
