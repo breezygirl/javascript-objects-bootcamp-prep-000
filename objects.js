@@ -9,11 +9,7 @@ function updatePlaylist(artistName, songTitle) {
   MyBloodyValentine: 'Sometimes'
   PhilOchs: " Here's to the STate of Mississippi"
   
-  
- 
-
-
-return updatePlaylist
+  return updatePlaylist
    
  }
 
