@@ -14,8 +14,7 @@ var playlist ={
  function removeFromPlaylist(playlist, artistName, SongTitle){
  playlist[artistName] =SongTitle
  
-delete artistName;
- 
+ delete playlist.artistName;
  return playlist
    
   
