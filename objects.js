@@ -11,4 +11,7 @@ function updatePlaylist(){
   
 }
 
-function removeFromPlaylist
+function removeFromPlaylist(){
+  
+  
+}
