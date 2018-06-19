@@ -4,4 +4,9 @@ var playlist ={
   song:'Slowdive'
 }
 
-
+function updatePlaylist(){
+  playlist
+  artistName
+  songTitle
+  
+}
