@@ -1,5 +1,8 @@
 
-
+var playlist ={
+  
+  ArtistName:'Slowdive',
+  songTitle: 'Alison'}
 /*var playlist ={
   
   Slowdive :'Alison'
