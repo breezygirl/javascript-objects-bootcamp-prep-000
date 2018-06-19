@@ -12,7 +12,7 @@ var playlist ={
  
    
  function removeFromPlaylist(playlist, artistName){
- artistName = Slowdive;
+ playlist[artistName] = Slowdive;
 delete artistName.Slowdive;
  
  return playlist
