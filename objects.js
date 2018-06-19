@@ -8,9 +8,9 @@ var playlist ={
 function updatePlaylist() {
   Slowdive: 'Alison'
   
-   phil Ochs: "Here's to the State of Mississippi",
+  phil Ochs: "Here's to the State of Mississippi";
   
-  My Bloody Valentine :'Sometimes'}
+  My Bloody Valentine :'Sometimes';
  
 
 
