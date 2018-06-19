@@ -16,7 +16,7 @@ var playlist;
  
 
 
-return updatePlaylist
+return (updatePlaylist, playlist)
    
  }
 
