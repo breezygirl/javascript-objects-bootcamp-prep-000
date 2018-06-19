@@ -9,9 +9,9 @@ function updatePlaylist() {
 var playlist;
   
   {artistName: 'phil Ochs' 
-  songTitle : "Here's to the State of Mississippi"}
+  songTitle : "Here's to the State of Mississippi"
   
-  {artistName: 'My Bloody Valentine'
+  artistName: 'My Bloody Valentine'
   songTitle:'Sometimes'}
  
 
