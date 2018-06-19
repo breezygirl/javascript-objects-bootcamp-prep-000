@@ -7,7 +7,7 @@ var playlist ={
 function updatePlaylist(artistName, songTitle) {
   Alison:'Slowdive'
   Sometimes: "My Bloody Valentine"
-  PhilOchs: " Here's to the STate of Mississippi"
+ Phil Ochs: 
   
   return updatePlaylist
    
